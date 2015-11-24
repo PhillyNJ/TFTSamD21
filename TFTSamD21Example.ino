@@ -24,7 +24,6 @@ REST        A2
 
 #include "Arduino.h"
 #include "character_map.h"
-#include "arial_8pt.h"
 #include "arcena_22pt.h"
 #define RS A5
 #define WR A4
